@@ -1,0 +1,33 @@
+
+The Tanawhu worshipers among the crew might ask to...
+
+- Set up a small shrine to Tanawhu on the ship
+- Offer a portion of meals to the sea
+- Consult dream visions for navigation
+- Perform a midnight ritual during the new moon requiring complete crew silence
+- Attempt to summon Tanawhu's servants for protection
+- Organize deep-sea diving sessions to hear Tanawhu's voice
+- Carve Tanawhu's symbols into the ship's wood
+- Recruit more followers for Tanawhu at ports
+- Perform a living sacrifice to calm a sea beast
+- Change course to find Tanawhu's sunken temple
+- Reshape the ship to resemble a giant squid
+- Permanently submerge the ship to live under the waves
+- Conduct daily prayer sessions for the entire crew
+- Forbid the consumption of squid, octopus, and other cephalopods
+- Replace all religious symbols on the ship with Tanawhu iconography
+- Enforce a vow of silence to better hear Tanawhu's whispers
+- Tattoo all crew members with Tanawhu's mark
+- Release captives or prisoners to the sea as offerings
+- Destroy all navigational tools and rely solely on Tanawhu's guidance
+- Convert the cargo hold into a massive aquarium for sacred sea life
+- Start using Tanawhu's dreams for navigation
+- Perform rituals during specific moon phases
+- Dive to the depths at the next calm sea to listen to Tanawhu
+- Abandon the surface world entirely
+- Consult Tanawhu's visions for all major decisions
+- Enforce mandatory participation in Tanawhu rituals for all crew members
+- Seek out and collect sacred artifacts related to Tanawhu
+- Establish underwater colonies dedicated to Tanawhu worship
+- Conduct missionary trips to coastal communities to spread Tanawhu's faith
+- Modify the ship's figurehead to represent Tanawhu

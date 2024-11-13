@@ -1,0 +1,13 @@
+- The Dragon Prince
+- Gravity Falls
+- Dimension 20 - A Crown of Candy
+- Ewilan
+- Game of Thrones / A Song of Ice and Fire
+- Assassin's Creed
+- The Lord of the Rings
+- Thorgal
+- X-men
+- Divinity Original Sin series
+- The Liveship Traders
+- Our Flag Means Death
+- Dune

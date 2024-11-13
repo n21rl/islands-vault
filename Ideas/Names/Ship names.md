@@ -1,0 +1,11 @@
+- [ ] Dead Reckoning
+- [ ] Great White
+- [x] Wavecutter
+- [ ] Stormkiller
+- [x] The Arrow
+- [ ] Chaser
+- [ ] Revenge
+- [x] Fussock
+- [x] White Clam
+- [ ] Oasis
+- [x] Fortune's Favour

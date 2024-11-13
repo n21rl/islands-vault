@@ -1,0 +1,7 @@
+- [x] lab visit 
+- [x] newspaper articles 
+- [x] meeting will the Easons 
+- [ ] quest for the Easons
+- [ ] meeting the Thinker
+- [x] Muni calls, asks if the party wants to leave tomorrow. Asks for supplies, including (poison) fish, upon Cook asking 
+- [ ] meeting with Moku 

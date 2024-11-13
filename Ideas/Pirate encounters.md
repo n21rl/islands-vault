@@ -1,0 +1,1 @@
+https://www.reddit.com/r/DnD/comments/uo9a3p/ideas_for_pirate_encounters/
