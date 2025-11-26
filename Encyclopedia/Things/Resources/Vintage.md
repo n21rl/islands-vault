@@ -1,6 +1,7 @@
 ---
 tags:
   - resource
+campaign: "[[Wings on the Wind]]"
 ---
 
 The Vintage (sometimes referred to as the "purple peril") is a deep purple liquid with destructive explosive properties created by the [[Wesson family]] for the Steorrian [[Rebellion|Rebellion]]. To produce it, magic is extracted from items delivered to the Siblíns and combined through a secret alchemical process developed by the Wessons. When unleashed, the volatile Vintage can level buildings and tear ships asunder, making it invaluable to the rebellion. However, it is highly unstable and can cause unintended widespread devastation if not handled with care.

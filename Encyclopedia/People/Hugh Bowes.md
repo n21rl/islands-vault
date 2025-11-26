@@ -1,22 +1,21 @@
 ---
-tag: people
 status: alive
 race: Half-Elf
 met: true
 role: Merchant
-organisations:
-  - "[[Organisations/Steorr/Steorr.md|Steorr]]"
+affiliations:
+- '[[Steorr|Steorr]]'
 pronouns: he/him
-portrait: "![[Ξ assets/portraits/NPC portraits/Hugh Bowes.jpg]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Hugh Bowes.jpg]]"
 aliases:
-  - Bowes
-  - Mr Bowes
+- Bowes
+- Mr Bowes
 tags:
-  - npc
+- person
 location:
-  - "[[Sealtham|Sealtham]]"
+- '[[Sealtham|Sealtham]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 Hugh Bowes is a Half-Elf merchant from [[Steorr]]. He has ties to the [[Green Salt Trading Company]]. 
 
 He was the owner of the Arrow, the ship captained by [[Orguk]]. During a trip to [[Áine]], the Orc led a mutiny against Bowes, which led to the discovery of secret magic items in the hold. 
@@ -42,5 +41,3 @@ He somehow made his way to [[Sealtham]] where the adventures saw him in discussi
 > | | | 
 > | **Organisations** | `=this.organisations` |
 > | **Role** | `=this.role` |
-
-

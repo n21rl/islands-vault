@@ -1,6 +1,7 @@
 ---
 tags:
   - secret
+campaign: "[[Wings on the Wind]]"
 ---
 Tanawhu is a powerful entity trapped in the [[Kitiri Trench]] who aims to free himself by gathering magic in any form
 ## Attack of the Hakari Isles

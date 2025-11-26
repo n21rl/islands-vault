@@ -1,6 +1,7 @@
 ---
 tags:
   - resource
+campaign: "[[Wings on the Wind]]"
 ---
 
 Hagroot is an plant native to the island of Helis. Its leaves are used to flavour dished but its root has euphoric and hallucinogenic properties. In Helis, it plays an important role in shamanistic rituals, rites of passage, and some recreational events among the ruling classes.

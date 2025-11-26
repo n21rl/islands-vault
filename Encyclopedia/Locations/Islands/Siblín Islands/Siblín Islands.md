@@ -4,6 +4,11 @@ tags:
 parent_loc: "[[Islands]]"
 aliases:
   - Siblín triplet
+sub_locs:
+  - "[[Áine]]"
+  - "[[Ben]]"
+  - "[[Cad]]"
+  - "[[Cavea]]"
 ---
 
 ## Description

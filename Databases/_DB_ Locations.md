@@ -40,7 +40,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 143
+    width: 253
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -51,6 +51,7 @@ columns:
       footer_type: none
       persist_changes: false
       related_note_path: Databases/_DB_ Locations.md
+      relation_color: hsl(0,0%,50%)
   tags:
     input: tags
     accessorKey: tags
@@ -110,8 +111,8 @@ config:
   source_destination_path: Encyclopedia/Locations
   row_templates_folder: Generators/templates
   current_row_template: Generators/templates/location-template.md
-  pagination_size: 20
-  font_size: 16
+  pagination_size: 30
+  font_size: 15
   enable_js_formulas: false
   formula_folder_path: /
   inline_default: false

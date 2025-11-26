@@ -1,18 +1,17 @@
 ---
-tag: people
 status: alive
 race: Peryton
 met: true
 role: Feisty teenager
 pronouns: he/him
-portrait: "![[Ξ assets/portraits/NPC portraits/Pery.jpg]]"
-aliases: 
+portrait: "![[\u039E assets/portraits/NPC portraits/Pery.jpg]]"
+aliases: null
 tags:
-  - npc
+- person
 location:
-  - "[[Jagged Peaks|Jagged Peaks]]"
+- '[[Jagged Peaks|Jagged Peaks]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`
@@ -30,6 +29,3 @@ location:
 > | | | 
 > | **Organisations** | `=this.organisations` |
 > | **Role** | `=this.role` |
-
-
-

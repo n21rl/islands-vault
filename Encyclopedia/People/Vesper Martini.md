@@ -1,20 +1,19 @@
 ---
-tag: people
 status: alive
 race: Elf
 met: true
 role:
-  - First mate
-  - Spy
-organisations:
-  - "[[The Drunks|The Drunks]]"
+- First mate
+- Spy
+affiliations:
+- '[[The Drunks|The Drunks]]'
 pronouns: they/them
-portrait: "![[Ξ assets/portraits/NPC portraits/Vesper Martini.jpg]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Vesper Martini.jpg]]"
 aliases: Mr Fleming
 tags:
-  - npc
+- person
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox]+ 
 > 
 > # `=this.file.name`

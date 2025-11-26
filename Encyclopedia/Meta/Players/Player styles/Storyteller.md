@@ -1,0 +1,1 @@
+Players who love storytelling want to contribute to a narrative. They like it when their characters are heavily involved in an unfolding story, and they enjoy encounters that are tied to and expand an overarching plot.

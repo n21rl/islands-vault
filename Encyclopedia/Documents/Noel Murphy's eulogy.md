@@ -4,8 +4,8 @@ tags:
 author: "[[Wayne MacGoshan]]"
 note_type: document
 document_type: speech
+campaign: "[[Wings on the Wind]]"
 ---
-
 - We are pirates. So no lies between us. He wasn't the greatest fighter, and he wasn't the worst. He had some good raids and he dogged a few bad ones. But the motherfucker had his moments. Yes, he fucking did. You remember the jail break? The boarding of the Fussock? 
 
 - Right. 

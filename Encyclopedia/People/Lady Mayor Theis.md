@@ -1,20 +1,19 @@
 ---
-tag: people
 status: alive
 race: Elf
 role:
-  - Mayor
-organisations:
-  - "[[Organisations/Steorr/Steorr.md|Steorr]]"
-  - "[[Rebellion]]"
+- Mayor
+affiliations:
+- '[[Steorr|Steorr]]'
+- '[[Rebellion]]'
 pronouns: she/her
-aliases: 
-portrait: "![[Ξ assets/portraits/NPC portraits/Lady Mayor Theis.jpg]]"
+aliases: null
+portrait: "![[\u039E assets/portraits/NPC portraits/Lady Mayor Theis.jpg]]"
 tags:
-  - npc
-location: "[[Locations/Grand Isle/Star Point.md|Star Point]]"
+- person
+location: '[[Locations/Grand Isle/Star Point.md|Star Point]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

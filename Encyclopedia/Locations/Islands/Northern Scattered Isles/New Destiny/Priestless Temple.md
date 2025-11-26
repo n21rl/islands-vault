@@ -2,6 +2,7 @@
 tags:
   - location
 parent_loc: "[[New Destiny]]"
+campaign: "[[Wings on the Wind]]"
 ---
 
 This temple is a simple stone building located on a small, wave-battered islet just off the coast of [[New Destiny]]. It can be accessed via a long suspended bridge.

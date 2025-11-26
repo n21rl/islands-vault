@@ -1,21 +1,20 @@
 ---
-tag: people
 status: alive
 race: Halfling
 met: true
-dg-publish: 
+dg-publish: null
 role: Free-roaming childa
 pronouns: he/him
-portrait: "![[Ξ assets/portraits/NPC portraits/Fipp.jpg]]"
-organisations:
-  - "[[Organisations/Otarky inhabitants.md|Otarky inhabitants]]"
-aliases: ""
+portrait: "![[\u039E assets/portraits/NPC portraits/Fipp.jpg]]"
+affiliations:
+- '[[Otarky inhabitants|Otarky inhabitants]]'
+aliases: ''
 tags:
-  - npc
+- person
 location:
-  - "[[Otarky|Otarky]]"
+- '[[Otarky|Otarky]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

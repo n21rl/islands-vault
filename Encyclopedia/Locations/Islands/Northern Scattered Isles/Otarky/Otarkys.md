@@ -1,6 +1,8 @@
 ---
 tags:
   - location
+parent_loc: "[[Otarky]]"
+campaign: "[[Wings on the Wind]]"
 ---
 
 In the south lies Otarkys, focused on harvesting edible mushrooms and extracting fibers to produce textiles. The air is filled with the earthy scent of compost 

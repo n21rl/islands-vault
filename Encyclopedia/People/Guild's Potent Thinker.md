@@ -1,22 +1,21 @@
 ---
-tag: people
 met: true
 race: Automaton
 status: defective
 pronouns: it/it
-organisations:
-  - "[[Organisations/Siblín Guilds/Siblín Guilds.md|Siblín Guilds]]"
+affiliations:
+- "[[Sibl\xEDn Guilds|Sibl\xEDn Guilds]]"
 role: Knowledge repository
 location:
-  - "[[Locations/Siblín Islands/Áine/Áine.md|Áine]]"
+- "[[Locations/Sibl\xEDn Islands/\xC1ine/\xC1ine.md|\xC1ine]]"
 aliases:
-  - GPT
-  - the Thinker
+- GPT
+- the Thinker
 tags:
-  - npc
-portrait: "![[Bob.jpg]]"
+- person
+portrait: '![[Bob.jpg]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

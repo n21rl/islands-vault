@@ -28,21 +28,7 @@
 - [ ] Ezra
 - [x] Gideon
 - [x] Milo
-
-^names
-
-Test line:`dice: [[NPC names#^names]]`
-
-Random name: `dice: [[NPC names#^steorrian-names]]`
-
-| Name    |     |
-| ------- | --- |
-| Fitchew |     |
-| Fancy   | [ ] |
-
-^steorrian-names
-
-
+- [ ] Bielti, the Sand Witch
 
 ## Selvean names
 - [ ] Pedro
@@ -61,8 +47,9 @@ Random name: `dice: [[NPC names#^steorrian-names]]`
 - [ ] Terra
 - [ ] Oceana
 - [ ] Igna
-- [ ] Paloma
+- [x] Paloma
 - [ ] Hibiscus
+- [ ] 
 ## Sea elf names
 - [ ] Talia
 - [ ] Makani
@@ -98,12 +85,15 @@ Random name: `dice: [[NPC names#^steorrian-names]]`
 - [x] Aumiha
 ## Siblín names 
 - [x] Rude Goldberg
-- [x] Knopper Gall 
+- [x] Knopper Gall
+- [ ] Verdigris 
+- [ ] Tilly Lagniappe 
+- [ ] Razz Mataz
+- [ ] Chompsky (gnome linguist)
+
 ## Clawed Clans names
 - [ ] Kitty Hawk
 - [ ] Kaida: dragon
+- [ ] Mort Al Wonbat
+- [ ] Anna Konda
 
-
-Verdigris 
-Tilly Lagniappe 
-Razz Mataz

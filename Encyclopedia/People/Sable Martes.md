@@ -1,23 +1,22 @@
 ---
-tag: people
 status: alive
 race: Human
 met: true
 role:
-  - Merchant
-organisations:
-  - "[[Organisations/Siblín Guilds/Siblín Guilds.md|Siblín Guilds]]"
-  - "[[Merchants Guild|Merchants Guild]]"
+- Merchant
+affiliations:
+- "[[Sibl\xEDn Guilds|Sibl\xEDn Guilds]]"
+- '[[Merchants Guild|Merchants Guild]]'
 pronouns: she/her
-portrait: "![[Ξ assets/portraits/NPC portraits/Sable Martes.jpg]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Sable Martes.jpg]]"
 aliases:
-  - Sable
+- Sable
 tags:
-  - npc
+- person
 location:
-  - "[[Áine|Áine]]"
+- "[[\xC1ine|\xC1ine]]"
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

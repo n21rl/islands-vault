@@ -1,22 +1,21 @@
 ---
-tag: people
 status: alive
 race: Elf
 met: true
 role:
-  - First mate
-  - Whip master
-organisations:
-  - "[[The Bards|The Bards]]"
+- First mate
+- Whip master
+affiliations:
+- '[[The Bards|The Bards]]'
 pronouns: she/her
-portrait: "![[Ξ assets/portraits/NPC portraits/Molly.jpg]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Molly.jpg]]"
 aliases: Flogging Molly, Angela
 tags:
-  - npc
+- person
 location:
-  - "[[New Destiny|New Destiny]]"
+- '[[New Destiny|New Destiny]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

@@ -1,0 +1,6 @@
+- All official characters options allowed, with reskin potentially needed to fit the world. 
+- Homebrew and non-official character options might be allowed after discussion with the DM. 
+- Death saving throws are private between the player and the DM. 
+- Spell components matter. Material components with a cost cannot be replaced by a spellcasting focus. 
+- Long rests only restore hit points when taken in a safe location
+- Ispiration can stack, 

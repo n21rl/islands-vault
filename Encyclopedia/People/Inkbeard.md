@@ -1,20 +1,19 @@
 ---
-tag: people
 status: alive
 race: Halfling
 met: true
 role: Tattooist
-organisations:
-  - "[[Republic|Republic]]"
+affiliations:
+- '[[Encyclopedia/Groups/Republic/Republic|Republic]]'
 pronouns: he/him
-aliases: 
-portrait: "![[Ξ assets/portraits/NPC portraits/Inkbeard.jpg]]"
+aliases: null
+portrait: "![[\u039E assets/portraits/NPC portraits/Inkbeard.jpg]]"
 tags:
-  - npc
+- person
 location:
-  - "[[New Destiny|New Destiny]]"
+- '[[New Destiny|New Destiny]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`
@@ -31,6 +30,6 @@ location:
 > | **Location** | `=this.location` |
 > | | | 
 > | **Organisations** | `=this.organisations` |
-> | **Role** | `=this.role` |
+> | **Rol[[Encyclopedia/Groups/Republic/Republic]].role` |
 
 Inkbeard is an elderly halfling tattooist from [[Republic]] with a permanent scowl. His long beard is dyed a deep black and tucked into his belt. He is quite defensive about his tattoo designs.

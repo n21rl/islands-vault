@@ -4,6 +4,14 @@ tags:
 parent_loc: "[[Siblín Islands]]"
 aliases:
   - Aine
+sub_locs:
+  - "[[Eólas Library]]"
+  - "[[Great Guildhall]]"
+  - "[[Menagerie]]"
+  - "[[The Vintage Lab]]"
+  - "[[The White Straw Hat]]"
+  - "[[Túram]]"
+  - "[[Undercity]]"
 ---
 
 Named after the eldest of [[The Three Siblings]], Áine is the jewel of the [[Siblín Guilds]]. It is a city of craft, commerce, and culture that shines through the archipelago from the largest island in the Siblín triplet. It is one of the most densely populated places in the Islands. Facing an ever-growing number of inhabitants, and with no space to extend out, the city had to grow inwards. The buildings, mostly made of brightly painted stone and plaster, seem stacked on top of each other, covering the hills. Between them, Áine's labyrinthine streets weave their way to every corner of the island. Three main canals also flow through the city, dividing it into different quarters and connecting it to the sea at three busy harbours. The Trade Harbour is the largest in the Siblíns and the main port of entry for foreign ships. It is divided into different areas, with some reserved for ships belonging to members of the Siblín Guilds, and others for ships belonging to visitors from abroad. Each area is further divided into zones where different checks are carried out. Therefore, arriving ships may have to wait for a long time before being allowed to disembark and enter the city proper. 

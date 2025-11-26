@@ -1,22 +1,21 @@
 ---
-tag: people
 status: alive
 race: Human
 met: false
-dg-publish: 
+dg-publish: null
 role: []
 pronouns: she/her
-portrait: "![[Ξ assets/portraits/NPC portraits/Erin Wesson.jpg]]"
-organisations:
-  - "[[Organisations/Siblín Guilds/Siblín Guilds.md|Siblín Guilds]]"
-  - "[[Wesson family]]"
-aliases: 
+portrait: "![[\u039E assets/portraits/NPC portraits/Erin Wesson.jpg]]"
+affiliations:
+- "[[Sibl\xEDn Guilds|Sibl\xEDn Guilds]]"
+- '[[Wesson family]]'
+aliases: null
 tags:
-  - npc
+- person
 location:
-  - "[[Áine|Áine]]"
+- "[[\xC1ine|\xC1ine]]"
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`
@@ -37,4 +36,4 @@ location:
 
 wife of [[Pierce Wesson]], mother of [[Esmith Wesson]] 
 lives in [[Áine]] 
-Sometimes perceived as the brain of the family, barely in the public eye but keeps records and pulls strings. 
+Sometimes perceived as the brain of the family, barely in the public eye but keeps records and pulls strings.

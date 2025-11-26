@@ -1,21 +1,20 @@
 ---
-tag: people
 status: alive
 race: Dragonborn
 met: true
 role: Pirate
-organisations:
-  - "[[The Bards|The Bards]]"
+affiliations:
+- '[[The Bards|The Bards]]'
 pronouns: he/him
-portrait: "![[Ξ assets/portraits/NPC portraits/Red Rum Jack.jpg]]"
-aliases: 
+portrait: "![[\u039E assets/portraits/NPC portraits/Red Rum Jack.jpg]]"
+aliases: null
 dg-publish: false
 tags:
-  - npc
+- person
 location:
-  - "[[New Destiny|New Destiny]]"
+- '[[New Destiny|New Destiny]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 Explosive and Gun master Dragonborn 
 
 > [!infobox] 
@@ -35,5 +34,3 @@ Explosive and Gun master Dragonborn
 > | | | 
 > | **Organisations** | `=this.organisations` |
 > | **Role** | `=this.role` |
-
-

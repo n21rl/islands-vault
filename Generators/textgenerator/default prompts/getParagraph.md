@@ -8,6 +8,7 @@ PromptInfo:
  tags: writing
  version: 0.0.1
 ---
+
 title:
 {{title}}
 outline:

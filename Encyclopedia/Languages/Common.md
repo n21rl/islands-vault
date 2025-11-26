@@ -1,0 +1,5 @@
+---
+aliases:
+  - Steorrian
+---
+Steorrian language

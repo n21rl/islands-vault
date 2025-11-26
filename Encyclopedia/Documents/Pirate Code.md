@@ -4,10 +4,10 @@ aliases:
 tags:
   - document
 note_type: document
-author: 
-document_type: 
+author:
+document_type:
+campaign: "[[Wings on the Wind]]"
 ---
-
 ## Preamble
 In the spirit of freedom, cooperation, and the pursuit of fortune, we Captains hereby establish this Code to govern our Republic on behalf of all free Mates. 
 ## Article I
@@ -39,5 +39,3 @@ We, all our Mates, and those who come after, will follow and defend our Code. So
 *[[Luna Mahina]]*
 *[[Orguk|Orguk the Deepborn]]*
 [[Yazim|Yazim Proudshot]]
-
-

@@ -1,21 +1,20 @@
 ---
-tag: people
 status: alive
-aliases: 
+aliases: null
 race: Dwarf
 met: true
-dg-publish: 
+dg-publish: null
 role: Shopkeeper
 pronouns: he/him
-portrait: "![[Ξ assets/portraits/NPC portraits/Finbar.jpg]]"
-organisations:
-  - "[[Republic|Republic]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Finbar.jpg]]"
+affiliations:
+- '[[Encyclopedia/Groups/Republic/Republic|Republic]]'
 tags:
-  - npc
+- person
 location:
-  - "[[New Destiny|New Destiny]]"
+- '[[New Destiny|New Destiny]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

@@ -1,22 +1,21 @@
 ---
-tag: people
 status: alive
-aliases: 
+aliases: null
 race: Elf
 met: true
-dg-publish: 
+dg-publish: null
 role: Shopkeeper
 pronouns: she/her
-portrait: "![[Ξ assets/portraits/NPC portraits/Thalassia.jpg]]"
-organisations:
-  - "[[Republic|Republic]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Thalassia.jpg]]"
+affiliations:
+- '[[Encyclopedia/Groups/Republic/Republic|Republic]]'
 tags:
-  - npc
+- person
 location:
-  - "[[New Destiny|New Destiny]]"
+- '[[New Destiny|New Destiny]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
-> [!infobox]+
+z> [!infobox]+
 > 
 > # `=this.file.name`
 > ![[Ξ assets/portraits/NPC portraits/Thalassia.jpg|275]]

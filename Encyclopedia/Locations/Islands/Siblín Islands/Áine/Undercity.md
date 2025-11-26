@@ -1,7 +1,10 @@
 ---
+parent_loc: "[[Áine]]"
 tags:
   - location
+campaign: "[[Wings on the Wind]]"
 ---
+
 
 The Undercity encompasses the dark underground network of sewers and other water systems, as well as the catacombs located beneath Áine. Nowadays, it is largely flooded and only specialised workers and scoundrels know how to access and navigate it. 
 

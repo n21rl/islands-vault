@@ -7,6 +7,7 @@ PromptInfo:
  tags: writing
  version: 0.0.1
 ---
+
 content: 
 {{context}}
 prompt:

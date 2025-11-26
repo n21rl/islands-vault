@@ -1,22 +1,22 @@
 ---
 tags:
-  - person
-  - npc
-organisations:
-  - "[[The Sea Dogs]]"
-  - "[[Republic's Council|Council]]"
+- person
+- npc
+affiliations:
+- '[[The Sea Dogs]]'
+- '[[Republic''s Council|Council]]'
 status: alive
-aliases: 
-race: 
+aliases: null
+race: null
 met: true
-dg-publish: 
+dg-publish: null
 role:
-  - Pirate captain
-pronouns: 
-portrait: "![[NPC Generator.jpg]]"
-location:
+- Pirate captain
+pronouns: null
+portrait: '![[NPC Generator.jpg]]'
+location: null
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

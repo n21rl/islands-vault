@@ -1,20 +1,19 @@
 ---
-tag: people
 status: dead
 race: Hag
 met: true
 role:
-  - Hag
+- Hag
 pronouns: she/her
-portrait: "![[Ξ assets/portraits/NPC portraits/Petrelle.jpg]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Petrelle.jpg]]"
 aliases:
-  - sea hag
+- sea hag
 tags:
-  - npc
-organisations: []
+- person
+affiliations: []
 location: []
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`
@@ -32,5 +31,3 @@ location: []
 > | | | 
 > | **Organisations** | `=this.organisations` |
 > | **Role** | `=this.role` |
-
-

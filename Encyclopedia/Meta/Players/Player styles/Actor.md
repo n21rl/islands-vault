@@ -1,0 +1,1 @@
+Players who enjoy acting like to embody their characters' personalities, perspectives, and attitudes. They might like dressing up or using their characters' voices while playing. They enjoy social interactions with NPCs, monsters, and their fellow party members.

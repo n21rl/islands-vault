@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"95d7f93d9dece85b","type":"text","text":"","x":115,"y":-697,"width":250,"height":60},
+		{"id":"4719343b17b307e0","type":"file","file":"Encyclopedia/Things/The Blood Claw.md","x":-600,"y":-940,"width":400,"height":326},
+		{"id":"0f0ea616318ee868","type":"text","text":"# Murder Scene\n- [ ] Body in a pool of blood\n- [ ] \"TRAITOR\" written in blood on the wall\n- [ ] ","x":-285,"y":-540,"width":400,"height":300}
+	],
+	"edges":[]
+}

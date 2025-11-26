@@ -1,19 +1,18 @@
 ---
-tag: people
 tags:
-  - npc
+- person
 status: alive
 aliases: []
-race: 
+race: null
 met: true
-dg-publish: 
+dg-publish: null
 role: []
-pronouns: 
-portrait: "![[Seraphina.jpg]]"
-organisations: []
-location:
+pronouns: null
+portrait: '![[Seraphina.jpg]]'
+affiliations: []
+location: null
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

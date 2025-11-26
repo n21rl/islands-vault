@@ -5,7 +5,7 @@ tags:
 parent_loc: "[[Domiselvea]]"
 ---
 
-Selvea technically refers to the largest city on the island of [[Domiselvea]], but the term is also used to refer to the island, the [[Organisations/Selvea/Selvea|country]], and its rulers.
+Selvea technically refers to the largest city on the island of [[Domiselvea]], but the term is also used to refer to the island, the [[Selvea|country]], and its rulers.
 
 Selvea is the capital city of the elven empire situated in the southern jungles of the large island of Domiselvea. The city's foundations arise from the tall mesas protruding above the jungle canopy, their sides carved into monumental tiered pyramids displaying the architectural ingenuity of its elven builders.
 

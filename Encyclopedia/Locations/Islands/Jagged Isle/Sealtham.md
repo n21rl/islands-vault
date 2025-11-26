@@ -3,6 +3,7 @@ dg-publish: false
 tags:
   - location
 parent_loc: "[[Jagged Isle]]"
+campaign: "[[Wings on the Wind]]"
 ---
 
 Sealtham is a major [[Steorr|Steorrian]] city tucked in a rocky fjord of the [[Jagged Isle]]. It is the only accessible harbour on the eastern end of the island and the main base for the [[Green Salt Trading Company]] in the Islands.

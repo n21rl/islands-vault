@@ -1,1 +1,0 @@
-https://www.facebook.com/share/r/QY6DBYbpR2MpGy9T/d

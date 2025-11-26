@@ -2,6 +2,8 @@
 tags:
   - location
 parent_loc: "[[Islands]]"
+sub_locs:
+  - "[[Selvea (city)]]"
 ---
 
 Domiselvea, sometimes referred to as Selvea, is a large island in the south is covered in tall mesas and jungles.

@@ -1,0 +1,1 @@
+Players who desire exploration want to experience the wonders that a fantasy world has to offer. They want to know what's around the next corner or hill and like to find hidden clues and treasure.

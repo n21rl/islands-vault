@@ -2,6 +2,9 @@
 tags:
   - location
 parent_loc: "[[Islands]]"
+sub_locs:
+  - "[[Hakari Isles]]"
+  - "[[Hakari Isles(1)]]"
 ---
 
 ## Description

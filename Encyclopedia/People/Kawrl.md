@@ -1,20 +1,20 @@
 ---
 tags:
-  - people
+- person
 status: alive
 race: Birdfolk
 met: true
 dg-publish: false
-portrait: "![[Ξ assets/portraits/NPC portraits/Kawrl.jpg]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Kawrl.jpg]]"
 role:
-  - Lookout
+- Lookout
 pronouns: they/them
-organisations: "[[Encyclopedia/Organisations/Crew|Crew]]"
-aliases: 
+affiliations: '[[Crew|Crew]]'
+aliases: null
 location:
-  - "[[Áine|Áine]]"
+- "[[\xC1ine|\xC1ine]]"
+campaign: '[[Wings on the Wind]]'
 ---
-
 Kawrl is the introverted Birdfolk lookout  of [[Crew]] who dies their head feathers blue and like to spend their time in the crow's nest. They fell to the deck after getting hit by an arrow fired by [[Viktor]]'s crew when the Asteroidea first arrived to Otarky. [[Liv]] nursed them back to health, but they lost the ability to fly. The are still able to glide however.
 
 > [!infobox] 
@@ -34,6 +34,3 @@ Kawrl is the introverted Birdfolk lookout  of [[Crew]] who dies their head feath
 > | | | 
 > | **Organisations** | `=this.organisations` |
 > | **Role** | `=this.role` |
-
-
-

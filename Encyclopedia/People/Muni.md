@@ -1,20 +1,19 @@
 ---
-tag: people
 status: alive
 race: Dwarf
 met: true
-dg-publish: 
+dg-publish: null
 role:
-  - First mate
+- First mate
 pronouns: she/her
-portrait: "![[Ξ assets/portraits/NPC portraits/Muni.jpg]]"
-organisations:
-  - "[[Crew|Crew]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Muni.jpg]]"
+affiliations:
+- '[[Crew|Crew]]'
 tags:
-  - npc
-location: "[[Áine|Áine]]"
+- person
+location: "[[\xC1ine|\xC1ine]]"
+campaign: '[[Wings on the Wind]]'
 ---
-
 Muni is the enthusiastic young Dwarf first mate of the [[Crew]]. Her dark 
 > [!infobox] 
 > 

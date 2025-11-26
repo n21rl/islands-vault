@@ -1,22 +1,21 @@
 ---
-tag: people
 tags:
-  - npc
+- person
 status: alive
 aliases:
-  - Moku
+- Moku
 race: Elf
 met: true
-dg-publish: 
-role: 
+dg-publish: null
+role: null
 pronouns: he/him
-portrait: "![[Mokunaro.jpg]]"
-organisations:
-  - "[[Hakari Sea Elves]]"
-  - "[[Guildless]]"
-location: "[[Undercity]]"
+portrait: '![[Mokunaro.jpg]]'
+affiliations:
+- '[[Hakari Sea Elves]]'
+- '[[Guildless]]'
+location: '[[Undercity]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`
@@ -80,5 +79,3 @@ Acceptance of Kai:
 "My ancient huskmind has beheld the coming unravel'd certitudes gestating in your grotesque, ill-fit embodiment, child. You and I shall be nightgale revelers as Tanawhu remakes all worlds!"
 
 "Let our unholy peregrination unto the ultimate null/reality's profane investiture begin, squidspawn! For too long has the cosmic renewal festered in unborn parallel deeps, awaiting its profane vector!"
-
-

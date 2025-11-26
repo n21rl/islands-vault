@@ -1,17 +1,16 @@
 ---
-tag: people
 status: alive
 race: Elf
 role: Pirate
-organisations:
-  - "[[The Reed Rangers|The Reed Rangers]]"
+affiliations:
+- '[[The Reed Rangers|The Reed Rangers]]'
 pronouns: she/her
-portrait: "![[Ξ assets/portraits/NPC portraits/Mary Reed.jpg]]"
-aliases: 
+portrait: "![[\u039E assets/portraits/NPC portraits/Mary Reed.jpg]]"
+aliases: null
 tags:
-  - npc
+- person
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`
@@ -35,7 +34,4 @@ Mary was born with a connection to plant life, allowing her to manipulate vegeta
 
 Her ship was subdued by the roguish pirates [[Calico Jack]] and [[Anne Bony]], who delighted in Mary's mastery over marshlands and reed beds. She deserted to join them and was finally able to embrace her full potential without fear, using her plantbending to empower her new crew who became known as [[The Reed Rangers]]. 
 
-She and Anne developped a relationship. When Anne died, Mary found comfort in Jack's arms. The pair sought out a Mer sorceress together to bring Anne back. 
-
-
-
+She and Anne developped a relationship. When Anne died, Mary found comfort in Jack's arms. The pair sought out a Mer sorceress together to bring Anne back.

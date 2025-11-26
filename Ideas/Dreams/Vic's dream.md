@@ -1,0 +1,1 @@
+Asked by the Hammer to kill Chalchi because she's been conspiring with the enemy. 

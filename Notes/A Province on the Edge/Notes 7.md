@@ -1,0 +1,11 @@
+- found Jeffrey camping up in the free range
+- he fired his gun at the group but was subdued
+- not responsible for Poppa's disappearance but pissed about being kicked from the ranch
+- Biggs sent to get Gorvan to convince Jeffrey to leave
+- meanwhile, ominous thunder in the distance, that sounds like the runners' call but of unnatural origins
+- a group of angry runners headed by a young alpha with some red feather attacks
+- magic and shenanigans end up with Lanternhead being the new alpha and riding the red runner (who had taken advantage of Poppa's disappearance).
+- The group, apart from Lanternhead rides back to the ranch
+- Lanternhead and his flock go investigate the mysterious noise and sees a group with a druid calling to the skies
+- after a couple of days, he reaches the outer edge of the range, destroys the fence and frees his group of runners
+- meets back up with the convoy on the road

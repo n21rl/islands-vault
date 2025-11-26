@@ -1,1 +1,0 @@
-These are the people who are part of the [[Encyclopedia/Organisations/Adventurers|Adventurers]].

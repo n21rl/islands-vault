@@ -1,4 +1,9 @@
-Certainly! Here's a detailed description of Yonder, the young Guildless Halfling woman who guides the party through the Undercity:
+---
+campaign: '[[Wings on the Wind]]'
+tags:
+- person
+---
+Yong Guildless Halfling woman who guides the party through the Undercity:
 
 **Appearance:**
 Yonder is a petite Halfling woman in her early twenties, with a wiry build and quick, agile movements. Her dark hair is cut short and practical, often tucked under a worn, wide-brimmed hat. Her clothing is a mix of patched-up leather armor and dark, nondescript garments that allow her to blend into the shadows of the Undercity. Her eyes are a bright, piercing blue, and she has a small scar on her left cheek, a memento from a past encounter with Undercity dangers.

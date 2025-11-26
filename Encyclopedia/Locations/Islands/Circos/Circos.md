@@ -4,7 +4,7 @@ tags:
 parent_loc: "[[Islands]]"
 ---
 
-Circos is an island city-state that is a protectorate of [[Organisations/Selvea/Selvea|Selvea]] 
+Circos is an island city-state that is a protectorate of [[Selvea|Selvea]] 
 ## Locations within Circos
 ```dataview
 TABLE

@@ -47,8 +47,8 @@ LIMIT 10
 
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "Location Name", type, Government, Community-Size, size, population  
-FROM "2-World"
-WHERE (NoteIcon = "Settlement")  
+FROM "Encyclopedia/Locations"
+WHERE (tags = "location")  
 SORT file.mtime DESC
 LIMIT 10
 ```

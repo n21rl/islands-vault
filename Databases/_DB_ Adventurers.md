@@ -70,6 +70,8 @@ columns:
       - { label: "Rogue", value: "Rogue", color: "hsl(248, 95%, 90%)"}
       - { label: "Ranger", value: "Ranger", color: "hsl(94, 95%, 90%)"}
       - { label: "Fighter/Warlock", value: "Fighter/Warlock", color: "hsl(0,96%,90%)"}
+      - { label: "Barbarian", value: "Barbarian", color: "hsl(303, 95%, 90%)"}
+      - { label: "Fighter/Paladin", value: "Fighter/Paladin", color: "hsl(33, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -110,6 +112,7 @@ columns:
       - { label: "subclass/barbarian/zealot", value: "subclass/barbarian/zealot", color: "hsl(273, 95%, 90%)"}
       - { label: "subclass/barbarian/wild-magic", value: "subclass/barbarian/wild-magic", color: "hsl(119, 95%, 90%)"}
       - { label: "class/barbarian", value: "class/barbarian", color: "hsl(303, 95%, 90%)"}
+      - { label: "group", value: "group", color: "hsl(331, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -157,6 +160,14 @@ columns:
       - { label: "Kenku", value: "Kenku", color: "hsl(257, 95%, 90%)"}
       - { label: "Half-Elf", value: "Half-Elf", color: "hsl(96, 95%, 90%)"}
       - { label: "Gnome", value: "Gnome", color: "hsl(76, 95%, 90%)"}
+      - { label: "[[Encyclopedia/Biology/People/Elf.md|Elf]]", value: "[[Encyclopedia/Biology/People/Elf.md|Elf]]", color: "hsl(210, 95%, 90%)"}
+      - { label: "[[Encyclopedia/Biology/People/Bugbear.md|Bugbear]]", value: "[[Encyclopedia/Biology/People/Bugbear.md|Bugbear]]", color: "hsl(157, 95%, 90%)"}
+      - { label: "[[Encyclopedia/Biology/People/Human.md|Human]]", value: "[[Encyclopedia/Biology/People/Human.md|Human]]", color: "hsl(107, 95%, 90%)"}
+      - { label: "[[Encyclopedia/Biology/People/Gnome.md|Gnome]]", value: "[[Encyclopedia/Biology/People/Gnome.md|Gnome]]", color: "hsl(338, 95%, 90%)"}
+      - { label: "[[Encyclopedia/Biology/Folks/Bugbear.md|Bugbear]]", value: "[[Encyclopedia/Biology/Folks/Bugbear.md|Bugbear]]", color: "hsl(32, 95%, 90%)"}
+      - { label: "[[Encyclopedia/Biology/Folks/Elf.md|Elf]]", value: "[[Encyclopedia/Biology/Folks/Elf.md|Elf]]", color: "hsl(69, 95%, 90%)"}
+      - { label: "[[Encyclopedia/Biology/Folks/Human.md|Human]]", value: "[[Encyclopedia/Biology/Folks/Human.md|Human]]", color: "hsl(103, 95%, 90%)"}
+      - { label: "[[Encyclopedia/Biology/Folks/Gnome.md|Gnome]]", value: "[[Encyclopedia/Biology/Folks/Gnome.md|Gnome]]", color: "hsl(141, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -179,6 +190,7 @@ columns:
     options:
       - { label: "he/him", value: "he/him", color: "hsl(212,93%,88%)"}
       - { label: "she/her", value: "she/her", color: "hsl(310,96%,90%)"}
+      - { label: "he/any", value: "he/any", color: "hsl(119,96%,90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -303,17 +315,20 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  organisations:
-    input: text
-    accessorKey: organisations
-    key: organisations
-    id: organisations
-    label: organisations
+  campaign:
+    input: select
+    accessorKey: campaign
+    key: campaign
+    id: campaign
+    label: campaign
     position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 152
+    width: 184
+    options:
+      - { label: "[[Encyclopedia/Stories/A Province on the Edge/A Province on the Edge.md|A Province on the Edge]]", value: "[[Encyclopedia/Stories/A Province on the Edge/A Province on the Edge.md|A Province on the Edge]]", color: "hsl(244, 95%, 90%)"}
+      - { label: "[[Encyclopedia/Stories/Wings on the Salt Wind/Wings on the Salt Wind.md|Wings on the Salt Wind]]", value: "[[Encyclopedia/Stories/Wings on the Salt Wind/Wings on the Salt Wind.md|Wings on the Salt Wind]]", color: "hsl(103, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -323,7 +338,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      content_alignment: text-align-left
 config:
   remove_field_when_delete_column: true
   cell_size: normal
@@ -343,7 +357,7 @@ config:
   source_destination_path: Encyclopedia/People/Adventurers
   row_templates_folder: /
   current_row_template: _tools/templates/PC.md
-  pagination_size: 10
+  pagination_size: 30
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /

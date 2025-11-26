@@ -1,0 +1,1 @@
+Players who enjoy fantasy combat like the excitement of battling villains and monsters. They thrive in situations that can best be resolved in combat, favouring bold action over negotiation or investigation.

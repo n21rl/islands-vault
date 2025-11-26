@@ -1,0 +1,7 @@
+I'm not really sure who to address this to- it's Oraya. They started calling me Mockingbird here, Mo for short. I like it, I guess. I mean right now it means a hell of a lot more than Oraya. Did that name mean something to you? Did you choose it for a reason? Not that it matters, you're not here.
+
+Did you ever look for me? Was I even worth looking for? An abandoned elven child, I'm sure we're easy to replace in this war-you could have found a better child wandering the streets. They probably aren't afraid of the ocean. They're probably smarter and braver than I am- or was I guess. Do you ever think about me? Are you even alive to do so? Some times I think of you - the parents I have no memory of. Granny always tells us there's no point on dwelling on what ifs, she says we have each other now, ~~but what happens when she leaves too?~~
+
+I need to stop writing to imaginary people, wishing that you exist or care is doing me no good. I've started going by Mo to everyone. Hanging on to whoever Oraya might have been is meaningless. I'm going to look after everyone here, I'll protect them however I can. ~~I know they don't need me, they are more than capable on their own, but maybe if I am useful they'll stick around this time.~~
+
+Ryn and Celfi left. I know they'll be incredible, they'll take the world by Storm. And I'll be here with Granny, telling their stories. I wish them all the best~~, but sometimes I wish they had at least asked me to go with them. But I'm not destined for great adventures.~~

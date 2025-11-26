@@ -1,19 +1,18 @@
 ---
-tag: people
 status: alive
 race: Human
 met: true
 role: Arachnophile hermit
 pronouns: he/him
-portrait: "![[Ξ assets/portraits/NPC portraits/Parker.jpg]]"
-aliases: 
-organisations: ""
+portrait: "![[\u039E assets/portraits/NPC portraits/Parker.jpg]]"
+aliases: null
+affiliations: ''
 tags:
-  - npc
+- person
 location:
-  - "[[Jagged Peaks|Jagged Peaks]]"
+- '[[Jagged Peaks|Jagged Peaks]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

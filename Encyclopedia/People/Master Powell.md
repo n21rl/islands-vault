@@ -1,20 +1,19 @@
 ---
-tag: people
 status: alive
 race: Human
 met: true
 role: Loremaster
 pronouns: he/him
-organisations:
-  - "[[Organisations/Otarky inhabitants.md|Otarky inhabitants]]"
-portrait: "![[Ξ assets/portraits/NPC portraits/Master Powell.jpg]]"
-aliases: 
+affiliations:
+- '[[Otarky inhabitants|Otarky inhabitants]]'
+portrait: "![[\u039E assets/portraits/NPC portraits/Master Powell.jpg]]"
+aliases: null
 tags:
-  - npc
+- person
 location:
-  - "[[Otarky|Otarky]]"
+- '[[Otarky|Otarky]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`
@@ -33,4 +32,4 @@ location:
 > | **Organisations** | `=this.organisations` |
 > | **Role** | `=this.role` |
 
-Loremaster Powell is an old man fascinated by lore and stories. 
+Loremaster Powell is an old man fascinated by lore and stories.

@@ -1,3 +1,10 @@
+---
+tags:
+  - location
+parent_loc: "[[Áine]]"
+campaign: "[[Wings on the Wind]]"
+---
+
 The room is oblong, roughly 60 feet by 40ft, with a tall ceiling. The stone work seems recent. Dim amber light emanating from gems casts creates soft shadows. 
 
 a cranked lift system

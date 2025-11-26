@@ -3,6 +3,7 @@ dg-publish: false
 tags:
   - location
 parent_loc: "[[Grand Isle]]"
+campaign: "[[Wings on the Wind]]"
 ---
 
 Star Point is a large [[Steorr|Steorrian]] city located on a tall rocky peninsula, overlooking [[Dots]] and connected to the rest of the [[Grand Isle]] by a thin strip of land. Protected by its geography, it also has a very strategically valuable position. It serves as the crossroads of trading routes in the North-West of the archipelago. 

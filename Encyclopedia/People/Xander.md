@@ -1,21 +1,20 @@
 ---
-tag: people
 status: alive
-aliases: []
+aliases: null
 race: Goblin
 met: true
-dg-publish: 
+dg-publish: null
 role:
-  - Auctioneer
+- Auctioneer
 pronouns: he/him
-portrait: "![[Ξ assets/portraits/NPC portraits/Xander.jpg]]"
-organisations:
-  - "[[Republic|Republic]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Xander.jpg]]"
+affiliations: '[[Encyclopedia/Groups/Republic/Republic|Republic]]'
 tags:
-  - npc
-location: "[[New Destiny|New Destiny]]"
+- person
+location:
+- '[[New Destiny|New Destiny]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

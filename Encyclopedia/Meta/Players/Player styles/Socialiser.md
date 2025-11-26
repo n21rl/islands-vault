@@ -1,0 +1,1 @@
+These players want to participate, but they tend not to care whether they're deeply immersed in the adventure, and they don't tend to be assertive or very involved in the details of the game, rules, or story.

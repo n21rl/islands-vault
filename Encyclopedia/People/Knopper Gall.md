@@ -1,21 +1,20 @@
 ---
-tag: people
 tags:
-  - npc
+- person
 status: alive
-aliases: 
-race: 
+aliases: null
+race: null
 met: true
-dg-publish: 
-role: 
+dg-publish: null
+role: null
 pronouns: he/him
-portrait: "![[Knapper Gall.jpg]]"
-organisations:
-  - "[[Wesson family]]"
-  - "[[Organisations/Siblín Guilds/Siblín Guilds.md|Siblín Guilds]]"
-location:
+portrait: '![[Knapper Gall.jpg]]'
+affiliations:
+- '[[Wesson family]]'
+- "[[Sibl\xEDn Guilds|Sibl\xEDn Guilds]]"
+location: null
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

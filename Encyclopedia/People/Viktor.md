@@ -1,19 +1,18 @@
 ---
-tag: people
 status: alive
 race: Human
 met: true
 role: Defence leader
-organisations:
-  - "[[Otarky inhabitants]]"
+affiliations:
+- '[[Otarky inhabitants]]'
 pronouns: he/him
-portrait: "![[Ξ assets/portraits/NPC portraits/Viktor.png]]"
-aliases: 
+portrait: "![[\u039E assets/portraits/NPC portraits/Viktor.png]]"
+aliases: null
 tags:
-  - npc
-location: "[[Otarky|Otarky]]"
+- person
+location: '[[Otarky|Otarky]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

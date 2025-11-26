@@ -1,23 +1,22 @@
 ---
-tag: people
 status: alive
 race: Human
 role:
-  - Guild Head
-  - Board Member
-organisations:
-  - "[[Board of the Guilds]]"
-  - "[[Organisations/Siblín Guilds/Siblín Guilds.md|Siblín Guilds]]"
-  - "[[Wesson family]]"
+- Guild Head
+- Board Member
+affiliations:
+- '[[Board of the Guilds]]'
+- "[[Sibl\xEDn Guilds|Sibl\xEDn Guilds]]"
+- '[[Wesson family]]'
 pronouns: he/him
-portrait: "![[Ξ assets/portraits/NPC portraits/Pierce Wesson.jpg]]"
-aliases: 
+portrait: "![[\u039E assets/portraits/NPC portraits/Pierce Wesson.jpg]]"
+aliases: null
 tags:
-  - npc
+- person
 location:
-  - "[[Áine|Áine]]"
+- "[[\xC1ine|\xC1ine]]"
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

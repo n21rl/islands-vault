@@ -1,20 +1,20 @@
 ---
 tags:
-  - person
+- person
 status: alive
 aliases:
-  - Neverins
-race: 
+- Neverins
+race: null
 met: true
-dg-publish: 
-role: 
-pronouns: 
-portrait: "![[Isnotins.jpg]]"
-organisations: 
+dg-publish: null
+role: null
+pronouns: null
+portrait: '![[Isnotins.jpg]]'
+affiliations: null
 location:
-  - "[[Áine|Áine]]"
+- "[[\xC1ine|\xC1ine]]"
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

@@ -1,20 +1,19 @@
 ---
-tag: people
 status: alive
 race: Halfling
 met: true
 role: Child
 pronouns: she/her
-organisations:
-  - "[[Organisations/Otarky inhabitants.md|Otarky inhabitants]]"
-portrait: "![[Ξ assets/portraits/NPC portraits/Telmay.jpg]]"
-aliases: 
+affiliations:
+- '[[Otarky inhabitants|Otarky inhabitants]]'
+portrait: "![[\u039E assets/portraits/NPC portraits/Telmay.jpg]]"
+aliases: null
 tags:
-  - npc
+- person
 location:
-  - "[[Otarky|Otarky]]"
+- '[[Otarky|Otarky]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox]+
 > 
 > # `=this.file.name`
@@ -32,6 +31,3 @@ location:
 > | | | 
 > | **Organisations** | `=this.organisations` |
 > | **Role** | `=this.role` |
-
-
-

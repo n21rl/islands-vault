@@ -1,25 +1,24 @@
 ---
-tag: people
 status: alive
 race: Dwarf
 met: true
 role:
-  - Mayor
-  - Mining operations manager
-organisations:
-  - "[[Organisations/Steorr/Steorr.md|Steorr]]"
-  - "[[Rebellion]]"
+- Mayor
+- Mining operations manager
+affiliations:
+- '[[Steorr|Steorr]]'
+- '[[Rebellion]]'
 pronouns: he/him
 aliases:
-  - Mayor Brummbär
-  - Brummbär
-portrait: "![[Ξ assets/portraits/NPC portraits/Lord Mayor Brummbär.jpg]]"
+- "Mayor Brummb\xE4r"
+- "Brummb\xE4r"
+portrait: "![[\u039E assets/portraits/NPC portraits/Lord Mayor Brummb\xE4r.jpg]]"
 tags:
-  - npc
+- person
 location:
-  - "[[Sealtham|Sealtham]]"
+- '[[Sealtham|Sealtham]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 Brummbär is a noble dwarf. He is the Mayor of [[Sealtham]] and the director of mining operations for the [[Green Salt Trading Company]] in the region. He often seems busy and irascible, running around town with an escort of [[Steorrian army|guards]]. 
 
 
@@ -40,4 +39,3 @@ Brummbär is a noble dwarf. He is the Mayor of [[Sealtham]] and the director of 
 > | | | 
 > | **Organisations** | `=this.organisations` |
 > | **Role** | `=this.role` |
-

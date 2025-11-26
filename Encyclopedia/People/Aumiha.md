@@ -1,21 +1,20 @@
 ---
-tag: people
 tags:
-  - npc
+- person
 status: alive
-aliases: 
+aliases: null
 race: Sea elf
 met: true
 dg-publish: false
 role:
-  - Whale envoy
+- Whale envoy
 pronouns: she/her
-portrait: "![[Aumiha.jpg]]"
-organisations:
-  - Sea elves
-location:
+portrait: '![[Aumiha.jpg]]'
+affiliations:
+- Sea elves
+location: null
+campaign: '[[Wings on the Wind]]'
 ---
-
 >[!infobox] 
 > 
 > # `=this.file.name`

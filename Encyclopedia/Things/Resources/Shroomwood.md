@@ -1,6 +1,7 @@
 ---
 tags:
   - resource
+campaign: "[[Wings on the Wind]]"
 ---
 
 Grows in [[Otarky]] 

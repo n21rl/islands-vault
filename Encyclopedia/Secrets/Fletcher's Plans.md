@@ -1,3 +1,8 @@
+---
+campaign: "[[Wings on the Wind]]"
+tags:
+  - secret
+---
 Fletcher has established a base in the Northern Scattered Isles to lead the anti-pirate raids from
 
 Gideon Fletcher is a seasoned Steorrian merdenary who has been tasked by Lord Mayor Brummbär of Sealtham to lead the pirate-hunting expedition in the Northern Scattered Isles. He is to eliminate the pirate threat and retrieving the valuable magic items stolen from Steorrian ships. He is a formidable and ruthless individual,

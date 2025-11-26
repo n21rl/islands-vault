@@ -1,3 +1,9 @@
+---
+parent_loc:
+  - "[[Encyclopedia/Locations/Islands/Northern Scattered Isles/Northern Scattered Isles.md|Northern Scattered Isles]]"
+tags:
+  - location
+---
 Mondirk Isle is a small island in the Northern Scattered Isles, whose crescent shape surrounds a deep blue hole. The island features dense vegetation, and caves in the cliffs facing the hole.
 
 Count Dædscu was an ambitious Steorrian explorer who sailed with one of the early expeditions to the Islands, approximately 100 years ago. Unlike his peers who were focused on colonization and resource extraction, Blackwater was drawn to the archipelago's mysteries. During his explorations, Blackwater discovered a massive blue hole in the sea. Fascinated by its depths and local legends, he became obsessed with uncovering its secrets. He was convinced that a great sunken city lay at the bottom, perhaps the remnants of an ancient civilization that once ruled the Islands.

@@ -1,20 +1,19 @@
 ---
-tag: people
 status: dead
 race: Half-Orc
 role:
-  - Mayor
-organisations:
-  - "[[Organisations/Steorr/Steorr.md|Steorr]]"
+- Mayor
+affiliations:
+- '[[Steorr|Steorr]]'
 pronouns: he/him
-portrait: "![[Ξ assets/portraits/NPC portraits/Lord Mayor Ebler.jpg]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Lord Mayor Ebler.jpg]]"
 aliases: []
 tags:
-  - npc
+- person
 location:
-  - "[[Locations/Grand Isle/Star Point.md|Star Point]]"
+- '[[Locations/Grand Isle/Star Point.md|Star Point]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

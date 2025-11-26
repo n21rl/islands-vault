@@ -1,24 +1,23 @@
 ---
-tag: people
 status: alive
 aliases:
-  - Lou
+- Lou
 race: Cetafolk
 met: true
-dg-publish: 
+dg-publish: null
 role:
-  - Innkeeper
-  - Former smuggler
+- Innkeeper
+- Former smuggler
 pronouns: he/him
-portrait: "![[Ξ assets/portraits/NPC portraits/Lou Beluga.jpg]]"
-organisations:
-  - "[[Organisations/Siblín Guilds/Siblín Guilds.md|Siblín Guilds]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Lou Beluga.jpg]]"
+affiliations:
+- "[[Sibl\xEDn Guilds|Sibl\xEDn Guilds]]"
 tags:
-  - npc
+- person
 location:
-  - "[[Áine|Áine]]"
+- "[[\xC1ine|\xC1ine]]"
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`
@@ -43,4 +42,4 @@ His smooth, greyish skin is often sunburnt. A portly man, he dresses in a flambo
 
 Lou's trusting smile, loud barking laugh, gregarious disposition and tendency to break into song make him a popular host.
 
-A friend of [[Yazim]] from [[Bard College]], he distributed [[Hagroot]] for the smuggling ring. 
+A friend of [[Yazim]] from [[Bard College]], he distributed [[Hagroot]] for the smuggling ring.

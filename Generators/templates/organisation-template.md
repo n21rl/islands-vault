@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - organisation
+  - group
 the: false
 ---
 

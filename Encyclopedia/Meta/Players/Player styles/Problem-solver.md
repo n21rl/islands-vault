@@ -1,0 +1,1 @@
+Players who want to solve problems like to scrutinize NPC motivations, untangle a villain's machinations, solve puzzles, and come up with plans.

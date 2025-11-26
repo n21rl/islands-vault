@@ -1,21 +1,20 @@
 ---
-tag: people
+tags:
+- person
 status: alive
 race: Goliath
 met: true
 dg-publish: false
 role:
-  - Exemplary miner
+- Exemplary miner
 pronouns: he/him
-portrait: "![[Ξ assets/portraits/NPC portraits/Alex.jpg]]"
-organisations:
-  - "[[Organisations/Steorr/Green Salt Trading Company.md|Green Salt Trading Company]]"
-aliases: 
-tags:
-  - npc
-location: "[[Sealtham|Sealtham]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Alex.jpg]]"
+affiliations: '[[Green Salt Trading Company]]'
+aliases: null
+location:
+- '[[Sealtham|Sealtham]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox]+
 > 
 > # `=this.file.name`
@@ -34,4 +33,4 @@ location: "[[Sealtham|Sealtham]]"
 > | **Organisations** | `=this.organisations` |
 > | **Role** | `=this.role` |
 
-Alex is a young Goliath miner for the [[Green Salt Trading Company]] based in [[Sealtham]]. During one of his shifts, he reportedly mined 14 times his quota. He has been used by the Company to inspire other miners ever since. 
+Alex is a young Goliath miner for the [[Green Salt Trading Company]] based in [[Sealtham]]. During one of his shifts, he reportedly mined 14 times his quota. He has been used by the Company to inspire other miners ever since.

@@ -1,22 +1,22 @@
 ---
 tags:
-  - person
-  - npc
-organisations:
-  - "[[The Night's Embrace]]"
-  - "[[Republic's Council|Council]]"
+- person
+- npc
+affiliations:
+- '[[The Night''s Embrace]]'
+- '[[Republic''s Council|Council]]'
 status: alive
-aliases: 
+aliases: null
 race: Elf
 met: true
-dg-publish: 
+dg-publish: null
 role:
-  - Pirate captain
+- Pirate captain
 pronouns: she/her
-portrait: "![[NPC Generator.jpg]]"
-location: 
+portrait: '![[NPC Generator.jpg]]'
+location: null
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

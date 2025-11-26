@@ -1,21 +1,20 @@
 ---
-tag: people
 status: alive
 race: Human
 met: true
 role:
-  - Unarmed fighter
-organisations:
-  - "[[The Bards|The Bards]]"
+- Unarmed fighter
+affiliations:
+- '[[The Bards|The Bards]]'
 pronouns: he/him
 aliases:
-  - Liam
-portrait: "![[Ξ assets/portraits/NPC portraits/Liam Murphy.jpg]]"
+- Liam
+portrait: "![[\u039E assets/portraits/NPC portraits/Liam Murphy.jpg]]"
 tags:
-  - npc
-location: "[[New Destiny|New Destiny]]"
+- person
+location: '[[New Destiny|New Destiny]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

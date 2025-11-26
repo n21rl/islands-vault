@@ -1,16 +1,15 @@
 ---
-tag: people
 status: undead
 race: Human
 role: Pirate
-portrait: "![[Ξ assets/portraits/NPC portraits/Anne Bony.jpg]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Anne Bony.jpg]]"
 pronouns: she/her
-organisations: "[[The Reed Rangers|The Reed Rangers]]"
-aliases: 
+affiliations: '[[The Reed Rangers|The Reed Rangers]]'
+aliases: null
 tags:
-  - npc
+- person
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

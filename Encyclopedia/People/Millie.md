@@ -1,20 +1,20 @@
 ---
-tag: people
 tags:
-  - npc
+- person
 status: alive
-aliases: 
+aliases: null
 race: Halfling
 met: true
-dg-publish: 
-role: Shopkeeper
-pronouns: 
-portrait: "![[Millie.jpg]]"
-organisations:
-  - "[[Organisations/Siblín Guilds/Siblín Guilds.md|Siblín Guilds]]"
-location: "[[Áine]]"
+dg-publish: null
+role:
+- Shopkeeper
+pronouns: null
+portrait: '![[Millie.jpg]]'
+affiliations: "[[Sibl\xEDn Guilds]]"
+location:
+- "[[\xC1ine]]"
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`
@@ -33,4 +33,4 @@ location: "[[Áine]]"
 > | **Organisations** | `=this.organisations` |
 > | **Role** | `=this.role` |
 
-Millie is a cheerful halfling woman with curly blond hair she keeps tucked under a scarf. She has rosy cheeks sprinkled with freckles and her bright green eyes twinkle merrily. She runs the shoe and hat shop Odd and Ends in Áine.
+Millie is a cheerful halfling woman with curly blond hair she keeps tucked under a scarf. She has rosy cheeks sprinkled with freckles and her bright green eyes twinkle merrily. She runs the shoe and hat shop Odd and Ends in [[Áine]].

@@ -1,20 +1,19 @@
 ---
-tag: people
 status: alive
 race: Mechanical
 met: true
 role: Pirate
-organisations:
-  - "[[The Bards|The Bards]]"
+affiliations:
+- '[[The Bards|The Bards]]'
 pronouns: she/her
-portrait: "![[Ξ assets/portraits/NPC portraits/Tin Lizzie.jpg]]"
-aliases: 
+portrait: "![[\u039E assets/portraits/NPC portraits/Tin Lizzie.jpg]]"
+aliases: null
 tags:
-  - npc
+- person
 location:
-  - "[[Locations/Northern Scattered Isles/New Destiny]]"
+- '[[Locations/Northern Scattered Isles/New Destiny]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox]+ 
 > 
 > # `=this.file.name`

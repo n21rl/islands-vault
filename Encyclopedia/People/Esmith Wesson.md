@@ -1,22 +1,21 @@
 ---
-tag: people
 status: alive
 race: Human
 met: true
 role: Escaped convict
-organisations:
-  - "[[Wesson family]]"
+affiliations:
+- '[[Wesson family]]'
 pronouns: she/her
-portrait: "![[Ξ assets/portraits/NPC portraits/Esmith.jpg]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Esmith.jpg]]"
 dg-publish: false
 aliases:
-  - Esmith
+- Esmith
 tags:
-  - npc
+- person
 location:
-  - "[[Áine|Áine]]"
+- "[[\xC1ine|\xC1ine]]"
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

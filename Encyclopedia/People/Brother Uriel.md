@@ -1,22 +1,21 @@
 ---
-tag: people
 status: alive
 race: Human
 met: true
 dg-publish: false
 role:
-  - Missionary
-organisations:
-  - "[[Organisations/Steorr/Church of the Unwavering Star.md|Church of the Unwavering Star]]"
-  - "[[Organisations/Steorr/Steorr.md|Steorr]]"
+- Missionary
+affiliations:
+- '[[Church of the Unwavering Star|Church of the Unwavering Star]]'
+- '[[Steorr|Steorr]]'
 pronouns: he/him
 aliases: []
-portrait: "![[Ξ assets/portraits/NPC portraits/Brother Uriel.jpg]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Brother Uriel.jpg]]"
 tags:
-  - npc
-location: "[[Mission|Mission]]"
+- person
+location: '[[Mission|Mission]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

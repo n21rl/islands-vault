@@ -1,3 +1,8 @@
+---
+campaign: '[[Wings on the Wind]]'
+tags:
+- person
+---
 **Appearance:**
 Hither is a few years older than Yonder, with a similar petite build but a more mature and world-weary demeanor. Her dark hair is longer than Yonder's, often braided or tied back to keep it out of her face. She wears simple, practical clothing in muted colors, with a few subtle embellishments that hint at her creative side. Her eyes are a deep, thoughtful brown, and she has a small tattoo of a bird in flight on her wrist, a symbol of her yearning for freedom.
 

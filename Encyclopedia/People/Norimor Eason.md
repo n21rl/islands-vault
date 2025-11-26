@@ -1,21 +1,21 @@
 ---
 tags:
-  - person
+- person
 status: alive
 aliases:
-  - Norimor
-race: 
+- Norimor
+race: null
 met: true
-dg-publish: 
+dg-publish: null
 role:
-  - printer
-pronouns: 
-portrait: "![[Norimor Eason.jpg]]"
-organisations: 
+- printer
+pronouns: null
+portrait: '![[Norimor Eason.jpg]]'
+affiliations: "[[Sibl\xEDn Guilds]]"
 location:
-  - "[[Áine]]"
+- "[[\xC1ine]]"
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

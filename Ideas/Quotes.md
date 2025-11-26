@@ -1,0 +1,1 @@
+You’ll forget why you ever feared the dark until the dark is all you have left

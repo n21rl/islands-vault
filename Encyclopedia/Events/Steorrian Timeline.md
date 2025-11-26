@@ -1,0 +1,17 @@
+- Darkness: refers to the era before the appearance of the [[Unwavering Star]], in contrast with the Starlit years (SL)
+- 0: **Appearance of the Unwavering Star** - The dark celestial orb known as the Unwavering Star first becomes visible in the sky above the lands that will become Steorr.
+- 1: **First year of the Steorrian Calendar** - Starts in the fist spring after the appearance of the Star
+- 16: **Establishment of the Church of the Unwavering Star** - The church centred around devotion and study of the Unwavering Star is formally established.
+- 35: **Unification of the Tribes** - The first monarch unites the various clans under one banner and establishes the Kingdom of Steorr. 
+- 1000: **Star Millennium** - A thousand years after the appearance of the Starm 
+- 1015: **First Expedition to the Star** - With the Church's support, the monarch sends a naval expedition seeking to reach the Unwavering Star. It is lost and never returns.
+- 1028: **Fourth Expedition Prepared** - After much preparation, a new expedition to the Star is launched.
+- 1029: **Discovery of the Islands** - After months of sailing guided by the Star, the explorers discover the archipelago of the Islands and make landfall at what will become Landfall. 
+- 1029: **Settlement of New Bæcon** - Later in 1029, a settlement is established at the confluence of two rivers on the Grand Isle. It will become New Bæcon, capital of the Steorrian colony.
+- 1031: **Settlement of Star Point** - The most eastern point of the Grand Isle is settled as the city of Star Point, closest Steorrians have been to the Star. 
+- 1050: **Colonisation of the Crater Isle**
+- 1029-1147: **Colonization of the Islands** - Steorr establishes control over territories across the Islands, including the Grand Isle, the Crater Isle, and the Jagged Isle, creating tensions with other inhabitants of the Islands. 
+- **First Selvean War** - Steorr invades Helis, triggering retaliation from Selvea 
+- 1099: Construction of the Star Point Cathedral ends
+- 1147: **Second Selvean War** - Steorr and Selvea go to war once again after years of rising tensions. 
+- 1165: **Harboursjaw Treaty** - The second Selvean War ends, with Steorr ceding control of the province of the Jaw to secure peace and the recognition of their other territory. 

@@ -4,6 +4,7 @@ tags:
   - location
 parent_loc:
   - "[[New Destiny|New Destiny]]"
+campaign: "[[Wings on the Wind]]"
 ---
 
 

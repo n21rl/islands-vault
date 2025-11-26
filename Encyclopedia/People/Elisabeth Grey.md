@@ -1,23 +1,22 @@
 ---
-tag: people
 status: alive
 race: Gnome
 met: true
 role:
-  - Pirate Captain
-organisations:
-  - "[[Organisations/The Phantoms.md|The Phantoms]]"
+- Pirate Captain
+affiliations:
+- '[[The Phantoms|The Phantoms]]'
 pronouns: she/her
-portrait: "![[Elisabeth Grey.jpg]]"
+portrait: '![[Elisabeth Grey.jpg]]'
 aliases:
-  - Captain Grey
-  - Grey
+- Captain Grey
+- Grey
 tags:
-  - npc
+- person
 location:
-  - "[[Northern Scattered Isles]]"
+- '[[Northern Scattered Isles]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

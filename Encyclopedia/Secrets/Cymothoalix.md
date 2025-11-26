@@ -1,6 +1,7 @@
 ---
 tags:
   - secret
+campaign: "[[Wings on the Wind]]"
 ---
 The party has made their way to the floating shipwreck of the Arrow to salvage cargo. A human druid and crustacean creatures had made their home there and fought the adventurers. Unbeknownst to the party, the druid was working for a fiendish tongue-eating louse named Cymothoalix that lived in his mouth. The fiend can attach to a humanoid's tongue and attempt to control its actions. The druid was a willing victim. The party defeated the druid and his beasts but they don't know that Cymothoalix is currently hiding aboard their ship. He plans to take revenge and capture their ship for himself.
 

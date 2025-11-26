@@ -3,6 +3,10 @@ tags:
   - location
 parent_loc: "[[Islands]]"
 the: "true"
+campaign: "[[Wings on the Wind]]"
+sub_locs:
+  - "[[Jagged Peaks]]"
+  - "[[Sealtham]]"
 ---
 
 The Jagged Isle is a long island in the North of the archipelago, under the control of [[Steorr]]. It is named thusly because of its coastline torn by fjords and its pointy peaks. These mountains are where [[Green Salt]] is mined. 

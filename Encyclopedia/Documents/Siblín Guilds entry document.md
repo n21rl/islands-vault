@@ -2,8 +2,8 @@
 tags:
   - document
 note_type: document
+campaign: "[[Wings on the Wind]]"
 ---
-
 ## Expedited entry document for repeat entrant 
 
 Entrant: Mr Hugh Bowes

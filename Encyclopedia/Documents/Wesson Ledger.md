@@ -4,8 +4,8 @@ tags:
 note_type: document
 author: "[[Erin Wesson]]"
 document_type: ledger
+campaign: "[[Wings on the Wind]]"
 ---
-
 | **_Date_**              | **_Purpose_**                                        | **_Recipient/Source_**                          | **_Value (GP)_** |         |                                      |
 | ----------------------- | ---------------------------------------------------- | ----------------------------------------------- | ---------------- | ------- | ------------------------------------ |
 | _10th_ _of Veran 1179_  | _Stay at Proud Lion Lodge_                           | _Hugh Bowes, Steorr_                            | _+_              | _4000_  |                                      |

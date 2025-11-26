@@ -1,0 +1,1 @@
+Players who like to instigate action are eager to make things happen, even if that means taking perilous risks. They would rather rush headlong into danger and face the consequences than cautiously plan their actions.

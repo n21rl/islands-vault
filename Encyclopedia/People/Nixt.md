@@ -1,20 +1,19 @@
 ---
-tag: people
 tags:
-  - npc
+- person
 status: alive
-aliases: 
+aliases: null
 race: Kobold
 met: true
-dg-publish: 
+dg-publish: null
 role: Vintage operative
-pronouns: 
-portrait: "![[Nixt.jpg]]"
-organisations:
-  - "[[Wesson family]]"
-location: "[[Áine]]"
+pronouns: null
+portrait: '![[Nixt.jpg]]'
+affiliations:
+- '[[Wesson family]]'
+location: "[[\xC1ine]]"
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

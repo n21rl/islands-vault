@@ -1,19 +1,18 @@
 ---
-tag: people
 status: alive
 race: Human
 role: Guild Head
-organisations:
-  - "[[Hostelry Guild|Hostelry Guild]]"
+affiliations:
+- '[[Hostelry Guild|Hostelry Guild]]'
 pronouns: she/her
-portrait: "![[Ξ assets/portraits/NPC portraits/Orla Wesson.jpg]]"
-aliases: 
+portrait: "![[\u039E assets/portraits/NPC portraits/Orla Wesson.jpg]]"
+aliases: null
 tags:
-  - npc
+- person
 location:
-  - "[[Áine|Áine]]"
+- "[[\xC1ine|\xC1ine]]"
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

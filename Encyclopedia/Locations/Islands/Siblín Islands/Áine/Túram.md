@@ -3,6 +3,7 @@ tags:
   - location
 parent_loc: "[[Áine|Áine]]"
 aliases: Turam
+campaign: "[[Wings on the Wind]]"
 ---
 
 The Túram is a a clock tower that rises above the [[Áine]]'s largest market square. This marvel of engineering bears numerous dials that indicate the time of day, date, the level of the tide, the predicted weather, the direction of the wind, and more useful information. 

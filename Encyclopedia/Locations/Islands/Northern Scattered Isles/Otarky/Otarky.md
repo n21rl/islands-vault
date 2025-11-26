@@ -3,6 +3,10 @@ dg-publish: false
 tags:
   - location
 parent_loc: "[[Northern Scattered Isles|Northern Scattered Isles]]"
+campaign: "[[Wings on the Wind]]"
+sub_locs:
+  - "[[Otarkyn]]"
+  - "[[Otarkys]]"
 ---
 
 Otarky is an island in the [[Northern Scattered Isles]]. The peculiar climate of the region leads to a frequent heavy fog, as well as unique flora comprising rare species of giant mushrooms that grow in the swampy forests in the middle of the island.
@@ -18,7 +22,6 @@ Quaint mushroom farming village in Otarky with simple thatch roof houses and dir
 
 
 The rural island of Otarky is dotted with small agricultural villages that rely heavily on mushroom cultivation. 
-
 
 
 

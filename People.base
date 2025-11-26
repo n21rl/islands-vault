@@ -1,0 +1,22 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("person")
+    order:
+      - file.name
+      - affiliations
+      - location
+      - met
+      - portrait
+      - pronouns
+      - role
+      - race
+      - status
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.hasTag("person")
+    image: note.portrait

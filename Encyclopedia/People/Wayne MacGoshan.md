@@ -1,23 +1,23 @@
 ---
 tags:
-  - person
+- person
 status: alive
 race: Human
 met: true
 role:
-  - Pirate captain
-organisations:
-  - "[[The Bards|The Bards]]"
-  - "[[Republic's Council|Council]]"
+- Pirate captain
+affiliations:
+- '[[The Bards|The Bards]]'
+- '[[Republic''s Council|Council]]'
 pronouns: he/him
-portrait: "![[Ξ assets/portraits/NPC portraits/Wayne MacGoshan.jpg]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Wayne MacGoshan.jpg]]"
 aliases:
-  - Wayne
+- Wayne
 location:
-  - "[[New Destiny|New Destiny]]"
+- '[[New Destiny|New Destiny]]'
+campaign: '[[Wings on the Wind]]'
 ---
-
-Wayne MacGoshan is the captain of [[The Bards]] pirate crew and one of the founders of [[Republic]]. His missing teeth and slurred speech do not seem to affect his charisma and powerful songs laden with magic. His crew will follow him anywhere. His right hand and first mate is [[Molly]]. 
+Wayne MacGoshan is the captain of [[The B[[Encyclopedia/Groups/Republic/Republic]]e crew and one of the founders of [[Republic]]. His missing teeth and slurred speech do not seem to affect his charisma and powerful songs laden with magic. His crew will follow him anywhere. His right hand and first mate is [[Molly]]. 
 
 > [!infobox] 
 > 
@@ -36,4 +36,3 @@ Wayne MacGoshan is the captain of [[The Bards]] pirate crew and one of the found
 > | | | 
 > | **Organisations** | `=this.organisations` |
 > | **Role** | `=this.role` |
-

@@ -30,6 +30,27 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  campaign:
+    input: text
+    accessorKey: campaign
+    key: campaign
+    id: campaign
+    label: campaign
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: 1
+    isSorted: true
+    isSortedDesc: false
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal

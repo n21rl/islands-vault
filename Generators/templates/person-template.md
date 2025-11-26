@@ -1,15 +1,15 @@
 ---
 tags:
-  - npc
+  - person
 status: alive
-aliases: []
+aliases: 
 race: 
 met: true
 dg-publish: 
-role: []
+role: 
 pronouns: 
 portrait: "![[NPC Generator.jpg]]"
-organisations: []
+affiliations: 
 location:
 ---
 
@@ -30,3 +30,4 @@ location:
 > | | | 
 > | **Organisations** | `=this.organisations` |
 > | **Role** | `=this.role` |
+

@@ -1,5 +1,4 @@
-Here are some suggestions to add more nuance and shades of grey to their portrayal:ize Steorrian individuals
-Rather than just presenting Steorr as a monolithic evil empire, give some Steorrian individuals more depth and complexity in their beliefs/motivations:
+Some Steorrian individuals more depth and complexity in their beliefs/motivations:
 - A Steorrian soldier who questions the morality of their actions against natives
 - A Church scholar genuinely convinced magic is dangerous heresy who isn't just a fanatic
 - A colonial administrator harsh on the surface, but motivated by keeping order/preventing anarchy

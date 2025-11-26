@@ -2,6 +2,16 @@
 tags:
   - location
 parent_loc: "[[Islands]]"
+campaign: "[[Wings on the Wind]]"
+sub_locs:
+  - "[[Eleuthera]]"
+  - "[[Fort Island]]"
+  - "[[Mission]]"
+  - "[[Northern Scattered Isles]]"
+  - "[[Otarky]]"
+  - "[[Traveller's Rest]]"
+  - "[[Wandering Isle]]"
+  - "[[New Destiny]]"
 ---
 
 Similarly to the [[Southern Scattered Isles]], the Northern Scattered Isles are territories unclaimed by the main powers due to adverse conditions and resource scarcity. They are poorly mapped. 

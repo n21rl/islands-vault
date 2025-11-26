@@ -1,3 +1,9 @@
+---
+tags:
+  - location
+parent_loc: "[[Grand Isle]]"
+---
+
 ## Description
 
 ## Locations within `=choice(this.the, "the " + this.file.name, this.file.name)`

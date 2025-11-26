@@ -77,7 +77,7 @@ Diplomatic Failures: Failed negotiations and border skirmishes create opportunit
 
 Civil Unrest: Growing dissent within Selvea against another war complicates the officer's plans, as public opinion is divided.
 
-Let's flesh out the factions a bit more. Maxitli acts as the ruler of the Jaw, they're an appeaser. Normally, Selvea doesn't rely on an established army, instead training every citizen for combat. Elite forces called champions are the only "professionals". Because of tensions in the Jaw, the Selvean government sent legions of champions to help Maxitli keep the peace. These are under the command of Tzecto, the military leader intent on stirring conflict to provoke war 
+Let's flesh out the factions a bit more. Paxitli acts as the ruler of the Jaw, they're an appeaser. Normally, Selvea doesn't rely on an established army, instead training every citizen for combat. Elite forces called champions are the only "professionals". Because of tensions in the Jaw, the Selvean government sent legions of champions to help Paxitli keep the peace. These are under the command of Tzecto, the military leader intent on stirring conflict to provoke war 
 
 ## Key Characters
 
@@ -105,7 +105,7 @@ Assassinated Official: The previous leader in the Jaw who favored appeasement, p
 
 ## Player Involvement
 
-Players start at level 3 and can engage in various ways:
+
 
 Investigating the Assassination: Players might gather information about the assassination, interacting with NPCs and uncovering the truth behind the officer’s motives.
 
@@ -127,40 +127,3 @@ Influencing Public Sentiment: Their actions can sway public opinion in either na
 Dynamic World Events: The unfolding plot will reflect players' decisions, leading to changing alliances, new conflicts, or potential resolutions based on their engagement.
 
 Character Growth: The moral dilemmas and challenges faced by players will provide rich opportunities for character development, shaping their identities and motivations throughout the campaign.
-
-# Factions
-
-## Selvean Appeasers
-- **Objective:** Maintain peace and stability in the Jaw.
-- **Makeup:** Primarily Selveans but includes Steorrian sympathizers who want harmony under Selvean rule.
-- **Methods:** Diplomatic outreach, negotiation, and attempts to incorporate Steorrian customs to reduce friction.
-
-## The Shadow Legion
-- **Objective:** Incite conflict to force Selvea to engage in war with Steorr, aiming to consolidate Selvean control through strength.
-- **Makeup:** Led by a military leader and includes radical Selvean citizens and former soldiers.
-- **Methods:** Operating secretly, sabotage diplomatic efforts, spark violence, and conduct covert operations to destabilize peace.
-
-## Steorrian Loyalists
-- **Objective:** Reinstatement of Steorrian governance over the Jaw.
-- **Makeup:** Steorrian settlers and loyalists with lingering ties to the Crown.
-- **Methods:** Passive resistance, fostering unrest, and secretly communicating with Steorrian representatives to build influence.
-
-## Independentists
-- **Objective:** Independence from both Steorr and Selvea.
-- **Makeup:** Primarily Steorrian settlers feeling abandoned by the Steorrian Crown.
-- **Methods:** Advocacy for self-governance, grassroots organizing, and community-led initiatives to establish autonomy.
-
-## Natives of the Jaw
-- **Objective:** Retain cultural autonomy and resist colonization by both Steorr and Selvea.
-- **Makeup:** Local non-Steorrian, non-Selvean inhabitants of the Jaw with distinct cultural and regional ties.
-- **Methods:** Maintain their customs and resist external influence, either through isolation or passive resistance, while occasionally collaborating with independentist allies.
-
-## The Rebellion
-- **Objective:** Achieve independence from Steorr’s control in the Grand Isle.
-- **Makeup:** A distinct faction in the Grand Isle with limited presence in the Jaw.
-- **Methods:** Though not directly active in the Jaw, they have sympathizers and contacts within the independentist groups and occasionally influence local unrest to destabilize Steorrian control indirectly.
-
-## Jawists
-- **Objective:** Advocate for a uniquely “Jaw-first” autonomy, blending Selvean and Steorrian structures into a hybrid governance.
-- **Makeup:** A mix of disillusioned settlers from both Selvean and Steorrian backgrounds and natives who see value in combining the two powers’ influences.
-- **Methods:** Creating alliances across factions to stabilize the region on their terms, negotiating with both Steorrians and Selveans to recognize the Jaw’s distinct identity.

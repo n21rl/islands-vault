@@ -4,7 +4,8 @@ tags:
 parent_loc: "[[Islands]]"
 ---
 
-Helis is an island city-state that is a protectorate of [[Organisations/Selvea/Selvea|Selvea]] 
+Helis is an island city-state that is a protectorate of [[Selvea]].
+Place where [[Hagroot]] originates.
 
 ## Locations within Helis
 ```dataview

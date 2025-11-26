@@ -1,20 +1,19 @@
 ---
-tag: people
 status: alive
 race: Half-Orc
 met: true
-dg-publish: 
+dg-publish: null
 role: Rigger
 pronouns: she/her
-portrait: "![[Ξ assets/portraits/NPC portraits/Geera.jpg]]"
-organisations:
-  - "[[Crew|Crew]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Geera.jpg]]"
+affiliations:
+- '[[Crew|Crew]]'
 tags:
-  - npc
+- person
 location:
-  - "[[Áine|Áine]]"
+- "[[\xC1ine|\xC1ine]]"
+campaign: '[[Wings on the Wind]]'
 ---
-
 Geera is the Half-Orc rigger of [[Crew]]. She has a crush on [[Orguk]].
 > [!infobox] 
 > 
@@ -33,4 +32,3 @@ Geera is the Half-Orc rigger of [[Crew]]. She has a crush on [[Orguk]].
 > | | | 
 > | **Organisations** | `=this.organisations` |
 > | **Role** | `=this.role` |
-

@@ -1,21 +1,20 @@
 ---
-tag: people
 status: alive
 race: Goliath
 met: true
-dg-publish: 
+dg-publish: null
 role:
-  - Cook
+- Cook
 pronouns: he/him
-portrait: "![[Cook.jpg]]"
-organisations:
-  - "[[Crew|Crew]]"
+portrait: Cook.jpg
+affiliations:
+- '[[Crew|Crew]]'
 tags:
-  - npc
+- person
 location:
-  - "[[Áine|Áine]]"
+- "[[\xC1ine|\xC1ine]]"
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`

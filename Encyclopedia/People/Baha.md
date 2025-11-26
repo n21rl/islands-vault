@@ -1,21 +1,20 @@
 ---
-tag: people
 status: alive
 race: Dwarf
 met: true
-portrait: "![[Ξ assets/portraits/NPC portraits/Baha.jpg]]"
+portrait: "![[\u039E assets/portraits/NPC portraits/Baha.jpg]]"
 role:
-  - Whaler captain
-organisations:
-  - "[[Fishers Guild|Fishers Guild]]"
+- Whaler captain
+affiliations:
+- '[[Fishers Guild|Fishers Guild]]'
 pronouns: she/her
 aliases: []
 tags:
-  - npc
+- person
 location:
-  - "[[Áine|Áine]]"
+- "[[\xC1ine|\xC1ine]]"
+campaign: '[[Wings on the Wind]]'
 ---
-
 > [!infobox] 
 > 
 > # `=this.file.name`
