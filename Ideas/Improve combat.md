@@ -23,7 +23,7 @@ The winner of the fight is the first party to bring something down
 
 Wrestling: Give a goal to gain style points during fight as well as bringing down anemey. Or after a certain number of rounds tally hp
 
-make tit a sport: like footbal for ex
+make it a sport: like footbal for ex
 https://docs.google.com/document/d/1-olJ9Pb1BxOnWwTs5XFRt31xtT3-8dC1HF6OIJreQMw/edit?usp=share_link
 
 
